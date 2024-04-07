@@ -10,8 +10,8 @@ Additionally, I needed a new Twitter username for myself anyway Lol
 ### todo
 
 - [x] PyTorch
-- [ ] tinygrad
-- [ ] JAX
+- [x] tinygrad
+- [x] JAX
 
 
 ### References
