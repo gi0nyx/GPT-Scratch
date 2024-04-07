@@ -1,5 +1,5 @@
 from token2 import BasicTokenizer
-from utils import *
+from layers import *
 import jax
 import jax.numpy as jnp
 from jax import grad, jit, vmap

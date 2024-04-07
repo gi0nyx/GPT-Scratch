@@ -1,6 +1,6 @@
 
 from token2 import BasicTokenizer
-from utils import *
+from layers import *
 import numpy as np
 from tinygrad.helpers import Timing
 from tinygrad.tensor import Tensor

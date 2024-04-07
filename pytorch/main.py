@@ -1,6 +1,6 @@
 
 from token2 import BasicTokenizer
-from utils import *
+from layers import *
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
